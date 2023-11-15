@@ -63,4 +63,4 @@ jobs:
           app-name: 'bault-chat'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B6F9D96F8C004579877CA6E7C632BEC7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F95B567CEACB4C4F86212FCB6DA35C38 }}
